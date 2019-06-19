@@ -1,0 +1,22 @@
+body{
+  background-color: #2b4162;
+  background-image: linear-gradient(315deg, #2b4162 0%, #12100e 74%);
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
+
+.Avengers_Assemble{
+  border: 5px solid white;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+img{
+  height:300px;
+  width:20%;
+  padding: 5%;
+  border-radius:100%;
+  }
